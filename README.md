@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-my first repository
+Hi, Humans,
+
+Special things will happen from now here !
